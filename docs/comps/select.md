@@ -104,6 +104,7 @@
 ```html
 <template>
 <div>
+  <Custom></Custom>
   <el-table
     :data="tableData"
     style="width: 100%;margin-bottom: 20px;"
